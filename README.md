@@ -30,5 +30,7 @@ Here are some ideas to get you started:
 <p><img src="https://github-readme-stats.vercel.app/api?username=mubassirjahan&amp;show_icons=true" alt="GitHub Stats"></p>
 <br>
 
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mubassirjahan)](https://git.io/streak-stats)
+-->
 
