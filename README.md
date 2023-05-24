@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **mubassirjahan/mubassirjahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
+<p align="center"> 
+        <a href="https://twitter.com/mubassirjahan" target="blank">
+                <img
+                src="https://img.shields.io/twitter/follow/mubassirjahan?logo=twitter&style=for-the-badge"
+                alt="mubassirjahan" />
+        </a>
+        <img src ="https://gpvc.arturio.dev/mubassirjahan" style="height: 28px">
+</p>
 
 
 <h2>GitHub Stats</h2>
