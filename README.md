@@ -24,7 +24,12 @@ Here are some ideas to get you started:
         </a>
         <img src ="https://gpvc.arturio.dev/mubassirjahan" style="height: 28px">
 </p>
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2514124/screenshots/5474610/crypto6_3.gif">
 <!--
+
+https://cdn.dribbble.com/users/2514124/screenshots/5474610/crypto6_3.gif
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/media/03c817d98ada6ce36ce4b8a2b73f8705.gif">
 -->
 <h2>GitHub Stats</h2>
