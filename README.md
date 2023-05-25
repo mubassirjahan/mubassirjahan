@@ -26,15 +26,20 @@ Here are some ideas to get you started:
 </p>
 
 
+
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=mubassirjahan&amp;show_icons=true" alt="GitHub Stats"></p>
 <br>
 
-
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubassirjahan&show_icons=true&locale=en&layout=compact" alt="mubassirjahan" /></p>
-
+-->
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mubassirjahan)](https://git.io/streak-stats)
+-->
+
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=Denvercoder1&theme=rose-pine&hide_border=true)](https://git.io/streak-stats)
 -->
 
