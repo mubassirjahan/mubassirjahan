@@ -51,3 +51,5 @@ https://cdn.dribbble.com/users/2514124/screenshots/5474610/crypto6_3.gif
 [![GitHub Streak](https://streak-stats.demolab.com?user=Denvercoder1&theme=rose-pine&hide_border=true)](https://git.io/streak-stats)
 -->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mubassirjahan&theme=rose-pine&hide_border=true)](https://git.io/streak-stats)
+
