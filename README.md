@@ -40,6 +40,7 @@ https://cdn.dribbble.com/users/2514124/screenshots/5474610/crypto6_3.gif
 
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubassirjahan&show_icons=true&locale=en&layout=compact" alt="mubassirjahan" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubassirjahan&label=Profile%20views&color=0e75b6&style=flat" alt="mubassirjahan" /> </p>
 -->
 
 <!--
