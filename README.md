@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <p align="center"> 
         <a href="https://twitter.com/mubassirjahan" target="blank">
                 <img
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </p>
 
 
-
+-->
 <!--
 
 https://cdn.dribbble.com/users/2514124/screenshots/5474610/crypto6_3.gif
