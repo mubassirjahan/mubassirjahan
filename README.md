@@ -1,6 +1,6 @@
 ### Hi there 👋 
         I'm Mubassir Jahan
-
+        I love to learn new things and implement them on real-life scenarios
 
         - 📫 How to reach me: ... by Email: mubassir.jahan01@gmail.com
         
