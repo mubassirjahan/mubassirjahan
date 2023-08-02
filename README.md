@@ -2,7 +2,7 @@
         I'm Mubassir Jahan
         I love to learn new things and implement them on real-life scenarios
 
-        - 📫 How to reach me: ... by Email: mubassir.jahan01@gmail.com
+        - 📫 How to reach me: ... by Email: jmubassir@gmail.com
         
 <!--
 **mubassirjahan/mubassirjahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
