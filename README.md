@@ -92,9 +92,80 @@ https://cdn.dribbble.com/users/2514124/screenshots/5474610/crypto6_3.gif
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Trying+to+be+an+Expert+Software+Developer.++++++++++)](https://git.io/typing-svg)
 
+
+<!--
 <h2>GitHub Stats</h2>
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mubassirjahan&theme=react&line_height=40&hide=css"/> </a>
-<br>
+<be> -->
+
+
+<!-- ALWAYS USE THIS ONE BECAUSE THIS IS THE BEST DESIGN I'VE EVER SEEN  SO SHOW UP YOUR BEST --------------------------------STARTS FROM HERE---->
+
+
+
+
+
+
+
+  
+<samp>
+    <h2 align="center"> 📊 My Github Stats </h2>
+</samp>
+<p align="center">
+    <table align="center">
+        <tr>
+            <td>
+                <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=musfiqdehan&theme=react&hide_border=true"></a>
+            </td>
+        </tr>
+   </table>
+</p>
+
+
+<br/>
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mubassir Jahan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mubassirjahan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mubassir Jahan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubassirjahan&langs_count=8.0&hide=html,java,vue&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+            </a>
+        </td>
+    </tr>
+</table>
+<em><b>Note:</b> Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skill level.</em>
+<br/>
+<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ALWAYS USE THIS ONE BECAUSE THIS IS THE BEST DESIGN I'VE EVER SEEN  SO SHOW UP YOUR BEST --------------------------------ENDS HERE---->
+
+
+<!-- Best STATES--------------->
+
+<!--
+	Dhan
+ <p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Engineer;Open+Source+Contributor;Problem+Solver;Content+Creator;Tech+Enthusiast&center=true&width=500&height=50">
+</a>
+</p>
+
+-->
 
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubassirjahan&show_icons=true&locale=en&layout=compact" alt="mubassirjahan" /></p>
@@ -109,5 +180,13 @@ https://cdn.dribbble.com/users/2514124/screenshots/5474610/crypto6_3.gif
 [![GitHub Streak](https://streak-stats.demolab.com?user=Denvercoder1&theme=rose-pine&hide_border=true)](https://git.io/streak-stats)
 -->
 
+
+
+<!--     the old one -->
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=mubassirjahan&theme=rose-pine&hide_border=true)](https://git.io/streak-stats)
+-->
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubassirjahan&label=Profile%20views&color=0e75b6&style=flat" alt="mubassirjahan" /> </p>
