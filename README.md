@@ -131,7 +131,7 @@ https://cdn.dribbble.com/users/2514124/screenshots/5474610/crypto6_3.gif
             </a>
         </td>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mubassir Jahan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubassirjahan&langs_count=8.0&hide=html,java,vue&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mubassir Jahan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubassirjahan&langs_count=8.0&hide=php,hack,jupyter%20notebook,html,java,vue&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
             </a>
         </td>
     </tr>
@@ -179,9 +179,9 @@ https://cdn.dribbble.com/users/2514124/screenshots/5474610/crypto6_3.gif
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=Denvercoder1&theme=rose-pine&hide_border=true)](https://git.io/streak-stats)
 -->
-
-
-
+<!--
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mubassirjahan&theme=react&line_height=40&hide=css"/> </a>
+-->
 <!--     the old one -->
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=mubassirjahan&theme=rose-pine&hide_border=true)](https://git.io/streak-stats)
