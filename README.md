@@ -38,10 +38,14 @@ https://cdn.dribbble.com/users/2514124/screenshots/5474610/crypto6_3.gif
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2514124/screenshots/5474610/crypto6_3.gif">
 -->
+<!--
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=mubassirjahan&amp;show_icons=true" alt="GitHub Stats"></p>
 <br>
-
+-->
+<h2>GitHub Stats</h2>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mubassirjahan&theme=react&line_height=40&hide=css"/> </a>
+<br>
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubassirjahan&show_icons=true&locale=en&layout=compact" alt="mubassirjahan" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubassirjahan&label=Profile%20views&color=0e75b6&style=flat" alt="mubassirjahan" /> </p>
