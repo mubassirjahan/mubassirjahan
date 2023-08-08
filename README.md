@@ -93,9 +93,11 @@ https://cdn.dribbble.com/users/2514124/screenshots/5474610/crypto6_3.gif
 <p><img src="https://github-readme-stats.vercel.app/api?username=mubassirjahan&amp;show_icons=true" alt="GitHub Stats"></p>
 <br>
 -->
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Trying+to+be+an+Expert+Software+Developer.++++++++++)](https://git.io/typing-svg)
+-->
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Nothing+is+impossible+for+those+who+will+try.++++++++++&&width=500)](https://git.io/typing-svg)
 <!--
 <h2>GitHub Stats</h2>
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mubassirjahan&theme=react&line_height=40&hide=css"/> </a>
