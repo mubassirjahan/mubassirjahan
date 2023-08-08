@@ -223,5 +223,9 @@ https://cdn.dribbble.com/users/2514124/screenshots/5474610/crypto6_3.gif
 <br/>
 <br/>
 
-
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Don't+Judge+a+book+by+it's+cover;Similarly+Never+Judge+a+person+based+on+his+Github+profile&center=true&width=900&height=50">
+</a>
+</p>
 
