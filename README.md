@@ -1,6 +1,9 @@
 ### Hi there 👋 
-        I'm Mubassir Jahan
-        I love to learn new things and implement them on real-life scenarios
+        I'm Mubassir Jahan.
+		    I am a Computer Science Graduate from NSU. I am an Aspiring Software Engineer as well as
+	            an AI Researcher.During my free time, I like to spend time with my family, play video games, 
+	            and love to click natural scenic view photographs. I love to learn new things and implement 
+		    them in real-life scenarios
 
         - 📫 How to reach me: ... by Email: jmubassir@gmail.com
         
