@@ -190,3 +190,38 @@ https://cdn.dribbble.com/users/2514124/screenshots/5474610/crypto6_3.gif
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubassirjahan&label=Profile%20views&color=0e75b6&style=flat" alt="mubassirjahan" /> </p>
+
+
+
+
+<details>
+    <summary align="center"><b>CLICK HERE TO VIEW MORE STATS!👈</b></summary>
+
+
+<samp>
+    <h2 align="center"> 🚀 Languages and Tools</h2>
+</samp>
+  
+<p align="center"> 
+    <a href="https://www.w3schools.com/CPP/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/> </a>
+    <a href="https://www.programiz.com/python-programming" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/> </a>
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flask.png" title="Flask"/> </a> 
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png" title="Django"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/> </a> 
+    <a href="https://www.w3schools.com/bootstrap/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"/> </a> 
+    <a href="https://www.w3schools.com/mysql/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/pytorch_logo_icon_169823.png" title="PyTorch"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu.png" title="Ubuntu"/> </a> 
+</p>
+
+<br/>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img title="Daily Contribution Frequency of Last 31 Days" alt="Mubassir Jahan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mubassirjahan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+<br/>
+
+
+
