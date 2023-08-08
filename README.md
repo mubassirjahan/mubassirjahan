@@ -232,3 +232,4 @@ https://cdn.dribbble.com/users/2514124/screenshots/5474610/crypto6_3.gif
 </a>
 </p>
 
+![Profile views](https://profile-counter.glitch.me/mubassirjahan/count.svg)
