@@ -1,9 +1,9 @@
 ### Hi there 👋 
-        I'm Mubassir Jahan.
-		    I am a Computer Science Graduate from NSU. I am an Aspiring Software Engineer as well as
-	            an AI Researcher. During my free time, I normally spend my time with family, play video games, 
-	            and sometimes try to click natural photographs. I love to learn new things and implement 
-		    them in real-life scenarios.
+      I'm Mubassir Jahan.
+		I am an engineering graduate from Computer Science and Engineering of North South University. 
+		I am an Aspiring Software Engineer as well as an AI Researcher. I tend to take up new challenges and learn new skills.
+		I love meeting new people, exchanging ideas, and spreading knowledge and positivity.
+
 
         - 📫 How to reach me: ... by Email: jmubassir@gmail.com
         
