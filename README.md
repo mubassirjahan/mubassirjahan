@@ -1,7 +1,8 @@
 ### Hi there 👋 
       I'm Mubassir Jahan.
-		I am an engineering graduate from Computer Science and Engineering of North South University. 
-		I am an Aspiring Software Engineer as well as an AI Researcher. I tend to take up new challenges and learn new skills.
+		I am an engineering graduate from Computer Science and Engineering of North South University.
+  		As well as an experienced software developer.
+		Besides, I also worked as  a Researcher. I tend to take up new challenges and learn new skills.
 		I love meeting new people, exchanging ideas, and spreading knowledge and positivity.
 
 
