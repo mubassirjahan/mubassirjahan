@@ -1,3 +1,16 @@
+<h1 align="center">Hello, I'm Mubassir Jahan</h1>
+<h3 align="center">I'm a responsible, hardworking, and skilled graduate of Computer Science Engineering from North South University with a major in Artificial Intelligence. I'm passionate about AI and eager to make meaningful contributions to the field. I also have good understanding in Fullstack Web developement.</h3>
+
+- I have mostly done projects in: **Pytorch, Django, Python**
+
+- Here's my email **jmubassir@gmail.com**
+
+
+
+
+
+<!--
+
 ### Hi there 👋 
       I'm Mubassir Jahan.
 		I am an engineering graduate from Computer Science and Engineering of North South University.
@@ -7,7 +20,11 @@
 
 
         - 📫 How to reach me: ... by Email: jmubassir@gmail.com
-        
+
+	-->
+
+
+ 
 <!--
 **mubassirjahan/mubassirjahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
