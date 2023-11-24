@@ -1,9 +1,14 @@
 <h1 align="center">Hello, I'm Mubassir Jahan</h1>
 <h3 align="center">I'm a responsible, hardworking, and skilled graduate of Computer Science Engineering from North South University with a major in Artificial Intelligence. I'm passionate about AI and eager to make meaningful contributions to the field. I also have good understanding in Fullstack Web developement.</h3>
 
-- I have mostly done projects in: **Pytorch, Django, Python**
+<!-- - I have mostly done projects in: **Pytorch, Django, Python** -->
+- I have mainly done projects related in: **Machine Learning and Web Development**
 
 - Here's my email **jmubassir@gmail.com**
+
+- My portfolio website: [www.mubassirjahan.github.io](https://mubassirjahan.github.io/)
+
+- My Google Scholar Profile: [Link](https://scholar.google.com/citations?view_op=list_works&hl=en&user=6AqxyA8AAAAJ&gmla=AJ1KiT0ETZOhTphH79mUQFzFzv3mFhrHGozqQnl0swOb-VkEXWVfPWWCg3oKGC53avq7Bkzy2HRv5IHA2Mf2C-7iRetwH6XVf2bkE-c2oXnxjNxi5FxKHm8)
 
 
 <h3 align="left">Languages and Tools:</h3>
